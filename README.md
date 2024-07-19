@@ -31,5 +31,6 @@ GIT
 ## Datos de contacto
 
 isaftx1@gmail.com
+
 Sara Sequera linlkedin
 04128158054
