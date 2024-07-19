@@ -1,5 +1,6 @@
 ## 🚀 Hi, I'm Sara
-Full stack | Front End developer.
+
+## Full stack | Front End developer.
 
 
 
@@ -17,7 +18,7 @@ Full stack | Front End developer.
 
 
 
-What technologies do I use?🚀
+## What technologies do I use?🚀
 
 React 😄
 TypeScript
@@ -27,7 +28,7 @@ Javascript
 PostgreSQL
 GIT
 
-Datoa de contacto
+## Datos de contacto
 
 isaftx1@gmail.com
 Sara Sequera linlkedin
