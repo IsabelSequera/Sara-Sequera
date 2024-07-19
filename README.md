@@ -2,6 +2,7 @@
 Full stack | Front End developer.
 
 🔭 I'm passionate about technology. 
+
 🌟 I love React!!!!
 👯 𝙸'𝚖𝚘 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 𝙰𝚗𝚍𝚛𝚘𝚒𝚍, Diseño o DevOps.
 💬 ¡Nos vemos pronto ! Estamos aquí para ayudarte.
